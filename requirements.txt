@@ -1,4 +1,4 @@
-sys
+os-sys
 os
 discord
 gunicorn
